@@ -89,6 +89,8 @@ body {
 
 .conteudo-img {
     height: 350px;
+    border-radius: 500px;
+    margin-top: 20px;
 }
 
 .conteudo-sec {
@@ -127,4 +129,3 @@ body {
     display: block;
     margin: 0 auto;
 }
-    
