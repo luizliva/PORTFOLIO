@@ -89,7 +89,7 @@ body {
 }
 
 .conteudo-img {
-    height: 350px;
+    height: 300px;
     border-radius: 500px;
     margin-top: 20px;
     border: 3px solid rgb(255, 216, 156)
@@ -223,5 +223,11 @@ body {
 .rodape2 {
     margin-top: 70px;
     border-top: 0.4px solid bisque;
+    padding: 16px;
+}
+
+.rodape3 {
+    margin-top: 370px;
+   
     padding: 16px;
 }
