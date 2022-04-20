@@ -1,3 +1,3 @@
 # PORTFOLIO
 
-Criação do meu primeiro site/portfolio, usando de base para a ladding page um tutorial da @rafaballerini!
+Criação de um site/portfolio, usando de base para a ladding page um modelo visto na aula da @rafaballerini!
